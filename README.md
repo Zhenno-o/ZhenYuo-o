@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ZhenYuo-o
-- 👀 I’m interested in sleeping.
-- 🌱 I’m currently learning Java, JS, SQL and more.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me? nope You can't.
+ambitionless student doing stuff
 
 <!---
 Heavyattacker/Heavyattacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
