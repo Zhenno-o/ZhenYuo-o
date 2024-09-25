@@ -1,4 +1,5 @@
 student doing stuff
+
 ## Technologies
 
 <table>
@@ -53,11 +54,11 @@ student doing stuff
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lpqawmqvgg2i22aoyymtsyxec4&count=5">
 </p>
-## My stats
 
-[](https://github.com/ZhenYuo-o/ZhenYuo-o/blob/main/github-metrics.svg)
+## My Stats
 
 ## My Links
+
 [My website](https://zhenn.me/)
 
 [Artstation](https://zhenno_o.artstation.com/)
