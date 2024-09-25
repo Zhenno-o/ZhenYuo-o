@@ -55,7 +55,7 @@ student doing stuff
 </p>
 ## My stats
 
-![page-click](https://github.com/ZhenYuo-o/ZhenYuo-/blob/main/github-metrics.svg)
+[](https://github.com/ZhenYuo-o/ZhenYuo-o/blob/main/github-metrics.svg)
 
 ## My Links
 [My website](https://zhenn.me/)
