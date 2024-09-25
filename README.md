@@ -56,7 +56,7 @@ student doing stuff
 </p>
 
 ## My Stats
-
+![Metrics](https://github.com/ZhenYuo-o/ZhenYuo-o/blob/main/github-metrics.svg)
 ## My Links
 
 [My website](https://zhenn.me/)
