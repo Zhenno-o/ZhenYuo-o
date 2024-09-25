@@ -23,24 +23,27 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: ZhenYuo-o
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Vienna
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # Lines
+          plugin_lines: yes
+          # Traffic
+          plugin_traffic: yes
+          # Habits
+          plugin_habits: yes
+          plugin_habits_from: 500
+          plugin_habits_charts: yes
+          config_timezone: UTC
+          # Followup
+          plugin_followup: yes
+          # Topics
+          #plugin_topics: yes
+          #plugin_topics_sort: stars
+          #plugin_topics_mode: mastered
+          #plugin_topics_limit: 0
+          # Languages
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
+          plugin_languages_ignored: html, css, shell
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_threshold: 2%
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          # Iso Calendar
+          plugin_isocalendar: yes
