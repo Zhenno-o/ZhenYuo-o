@@ -30,6 +30,9 @@ student doing stuff
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="12.5%" align="center">
+        <strong>React</strong><br><br>
+      </td>
+      <td width="12.5%" align="center">
         <strong>Python</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
